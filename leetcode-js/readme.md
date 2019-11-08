@@ -1,6 +1,6 @@
-//测试模板
-import revertByWorld from '../../code/'
+##File Description
+/code: code demo
+/testing: testing.....
+/tested:  already test
 
-test('', () => {
-    expect(revertByWorld("")).toBe("")
-}) 
+##Start testing: npm test
