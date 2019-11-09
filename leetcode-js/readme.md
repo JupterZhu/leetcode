@@ -1,6 +1,7 @@
-##File Description
+1：File Description
 /code: code demo
 /testing: testing.....
 /tested:  already test
 
-##Start testing: npm test
+2：Start testing: 
+npm test
